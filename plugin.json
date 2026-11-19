@@ -1,0 +1,16 @@
+{
+    "id": "egg-update-review",
+    "name": "Egg Update Review",
+    "author": "ShuraBlack",
+    "version": "1.0.0",
+    "description": "Shows a diff before updating an egg and lets you keep your own version of each changed field or variable.",
+    "category": "plugin",
+    "url": null,
+    "update_url": null,
+    "namespace": "ShuraBlack\\EggUpdateReview",
+    "class": "EggUpdateReviewPlugin",
+    "panels": ["admin"],
+    "panel_version": null,
+    "api_version": 1,
+    "composer_packages": null
+}
