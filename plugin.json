@@ -6,7 +6,7 @@
     "description": "Shows a diff before updating an egg and lets you keep your own version of each changed field or variable.",
     "category": "plugin",
     "url": null,
-    "update_url": null,
+    "update_url": "https://hub.pelican.dev/plugins/egg-update-review/update.json",
     "namespace": "ShuraBlack\\EggUpdateReview",
     "class": "EggUpdateReviewPlugin",
     "panels": ["admin"],
